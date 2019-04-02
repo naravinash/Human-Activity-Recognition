@@ -1,4 +1,4 @@
-# Human-Activity-Recognition
+# <center> Human-Activity-Recognition
 
 ## Introduction
 This dataset is taken from UCI's machine learning repository.
